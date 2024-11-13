@@ -5,7 +5,7 @@ import 'package:mental_health_tracker/widgets/left_drawer.dart';
 class MyHomePage extends StatelessWidget {
   MyHomePage({super.key});
   final String npm = '2306275866'; // NPM
-  final String name = 'M. Alvin Rheinaldy G. Z.'; // Nama
+  final String name = 'Alvin'; // Nama
   final String className = 'PBP D'; // Kelas
   final List<ItemHomepage> items = [
     ItemHomepage("Lihat Mood", Icons.mood),
